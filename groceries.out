@@ -1,0 +1,1153 @@
+[{
+  "confidence": 1.0,
+  "lift": 3.9136490250696374,
+  "leverage": 9.083688692609552E-4,
+  "conviction": 8.933807829181495,
+  "premise": ["sugar", "rice"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 12,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 1.0,
+  "lift": 3.9136490250696374,
+  "leverage": 8.326714634892089E-4,
+  "conviction": 8.18932384341637,
+  "premise": ["hygiene articles", "canned fish"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 11,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 1.0,
+  "lift": 3.9136490250696374,
+  "leverage": 7.569740577174626E-4,
+  "conviction": 7.444839857651245,
+  "premise": ["root vegetables", "pip fruit", "hygiene articles"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 10,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 1.0,
+  "lift": 3.9136490250696374,
+  "leverage": 7.569740577174626E-4,
+  "conviction": 7.444839857651245,
+  "premise": ["root vegetables", "whipped/sour cream", "hygiene articles"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 10,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 1.0,
+  "lift": 3.9136490250696374,
+  "leverage": 0.0012868558981196866,
+  "conviction": 12.656227758007118,
+  "premise": ["root vegetables", "whipped/sour cream", "flour"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 17,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 1.0,
+  "lift": 3.9136490250696374,
+  "leverage": 7.569740577174626E-4,
+  "conviction": 7.444839857651245,
+  "premise": ["root vegetables", "butter", "rice"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 10,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 1.0,
+  "lift": 3.9136490250696374,
+  "leverage": 7.569740577174626E-4,
+  "conviction": 7.444839857651245,
+  "premise": ["pip fruit", "butter", "hygiene articles"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 10,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 1.0,
+  "lift": 3.9136490250696374,
+  "leverage": 7.569740577174626E-4,
+  "conviction": 7.444839857651245,
+  "premise": ["domestic eggs", "butter", "soft cheese"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 10,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 1.0,
+  "lift": 3.9136490250696374,
+  "leverage": 7.569740577174626E-4,
+  "conviction": 7.444839857651245,
+  "premise": ["domestic eggs", "curd", "sugar"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 10,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 1.0,
+  "lift": 3.9136490250696374,
+  "leverage": 8.326714634892089E-4,
+  "conviction": 8.18932384341637,
+  "premise": ["domestic eggs", "napkins", "cream cheese "],
+  "consequence": ["whole milk"],
+  "premiseSupport": 11,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 1.0,
+  "lift": 3.9136490250696374,
+  "leverage": 8.326714634892089E-4,
+  "conviction": 8.18932384341637,
+  "premise": ["domestic eggs", "cream cheese ", "sugar"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 11,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 1.0,
+  "lift": 5.168155543878087,
+  "leverage": 8.200379986089748E-4,
+  "conviction": 8.065073716319269,
+  "premise": ["root vegetables", "citrus fruit", "soft cheese"],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 10,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 1.0,
+  "lift": 5.168155543878087,
+  "leverage": 9.020417984698723E-4,
+  "conviction": 8.871581087951196,
+  "premise": ["pip fruit", "whipped/sour cream", "brown bread"],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 11,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 1.0,
+  "lift": 5.168155543878087,
+  "leverage": 8.200379986089748E-4,
+  "conviction": 8.065073716319269,
+  "premise": ["whole milk", "rolls/buns", "soda", "newspapers"],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 10,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 1.0,
+  "lift": 3.9136490250696374,
+  "leverage": 0.0010597636808044478,
+  "conviction": 10.422775800711744,
+  "premise": ["other vegetables", "yogurt", "root vegetables", "oil"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 14,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 1.0,
+  "lift": 5.168155543878087,
+  "leverage": 8.200379986089748E-4,
+  "conviction": 8.065073716319269,
+  "premise": ["whole milk", "yogurt", "tropical fruit", "grapes"],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 10,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 1.0,
+  "lift": 3.9136490250696374,
+  "leverage": 8.326714634892089E-4,
+  "conviction": 8.18932384341637,
+  "premise": ["other vegetables", "bottled water", "root vegetables", "pip fruit"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 11,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 1.0,
+  "lift": 3.9136490250696374,
+  "leverage": 7.569740577174626E-4,
+  "conviction": 7.444839857651245,
+  "premise": ["other vegetables", "root vegetables", "butter", "white bread"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 10,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 1.0,
+  "lift": 5.168155543878087,
+  "leverage": 9.020417984698723E-4,
+  "conviction": 8.871581087951196,
+  "premise": ["whole milk", "tropical fruit", "pip fruit", "ham"],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 11,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 1.0,
+  "lift": 3.9136490250696374,
+  "leverage": 9.083688692609552E-4,
+  "conviction": 8.933807829181495,
+  "premise": ["other vegetables", "whipped/sour cream", "domestic eggs", "butter"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 12,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 1.0,
+  "lift": 3.9136490250696374,
+  "leverage": 7.569740577174626E-4,
+  "conviction": 7.444839857651245,
+  "premise": ["other vegetables", "whipped/sour cream", "pork", "butter"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 10,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 1.0,
+  "lift": 3.9136490250696374,
+  "leverage": 7.569740577174626E-4,
+  "conviction": 7.444839857651245,
+  "premise": ["rolls/buns", "root vegetables", "tropical fruit", "sausage"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 10,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 1.0,
+  "lift": 3.9136490250696374,
+  "leverage": 7.569740577174626E-4,
+  "conviction": 7.444839857651245,
+  "premise": ["rolls/buns", "pastry", "citrus fruit", "whipped/sour cream"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 10,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 1.0,
+  "lift": 3.9136490250696374,
+  "leverage": 8.326714634892089E-4,
+  "conviction": 8.18932384341637,
+  "premise": ["yogurt", "root vegetables", "tropical fruit", "oil"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 11,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 1.0,
+  "lift": 5.168155543878087,
+  "leverage": 8.200379986089748E-4,
+  "conviction": 8.065073716319269,
+  "premise": ["yogurt", "tropical fruit", "pip fruit", "ham"],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 10,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 1.0,
+  "lift": 5.168155543878087,
+  "leverage": 9.8404559833077E-4,
+  "conviction": 9.67808845958312,
+  "premise": ["root vegetables", "tropical fruit", "citrus fruit", "whipped/sour cream"],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 12,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 1.0,
+  "lift": 5.168155543878087,
+  "leverage": 8.200379986089748E-4,
+  "conviction": 8.065073716319269,
+  "premise": ["tropical fruit", "fruit/vegetable juice", "whipped/sour cream", "butter"],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 10,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 1.0,
+  "lift": 3.9136490250696374,
+  "leverage": 7.569740577174626E-4,
+  "conviction": 7.444839857651245,
+  "premise": ["other vegetables", "yogurt", "root vegetables", "tropical fruit", "oil"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 10,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9375,
+  "lift": 3.669045961002785,
+  "leverage": 0.0011094808105990843,
+  "conviction": 5.955871886120996,
+  "premise": ["other vegetables", "cream cheese ", "sugar"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 16,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9375,
+  "lift": 3.669045961002785,
+  "leverage": 0.0011094808105990843,
+  "conviction": 5.955871886120996,
+  "premise": ["yogurt", "root vegetables", "tropical fruit", "sausage"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 16,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9333333333333333,
+  "lift": 3.652739090064995,
+  "leverage": 0.001033783404827338,
+  "conviction": 5.5836298932384345,
+  "premise": ["yogurt", "domestic eggs", "sugar"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 15,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9333333333333333,
+  "lift": 3.652739090064995,
+  "leverage": 0.001033783404827338,
+  "conviction": 5.5836298932384345,
+  "premise": ["citrus fruit", "domestic eggs", "sugar"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 15,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9333333333333333,
+  "lift": 4.823611840952881,
+  "leverage": 0.0011283793161646063,
+  "conviction": 6.048805287239451,
+  "premise": ["whole milk", "yogurt", "root vegetables", "oil"],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 15,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 0.9333333333333333,
+  "lift": 4.823611840952881,
+  "leverage": 0.0011283793161646063,
+  "conviction": 6.048805287239451,
+  "premise": ["whole milk", "yogurt", "root vegetables", "tropical fruit", "citrus fruit"],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 15,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 0.9285714285714286,
+  "lift": 3.634102666136092,
+  "leverage": 9.580859990555915E-4,
+  "conviction": 5.211387900355872,
+  "premise": ["pip fruit", "whipped/sour cream", "cream cheese "],
+  "consequence": ["whole milk"],
+  "premiseSupport": 14,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9285714285714286,
+  "lift": 4.799001576458224,
+  "leverage": 0.0010463755163037085,
+  "conviction": 5.645551601423487,
+  "premise": ["soda", "whipped/sour cream", "butter"],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 14,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 0.9285714285714286,
+  "lift": 4.799001576458224,
+  "leverage": 0.0010463755163037085,
+  "conviction": 5.645551601423487,
+  "premise": ["pastry", "pip fruit", "butter"],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 14,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 0.9285714285714286,
+  "lift": 4.799001576458224,
+  "leverage": 0.0010463755163037085,
+  "conviction": 5.645551601423487,
+  "premise": ["whole milk", "yogurt", "root vegetables", "rice"],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 14,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 0.9285714285714286,
+  "lift": 3.634102666136092,
+  "leverage": 9.580859990555915E-4,
+  "conviction": 5.211387900355872,
+  "premise": ["other vegetables", "yogurt", "root vegetables", "rice"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 14,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9285714285714286,
+  "lift": 3.634102666136092,
+  "leverage": 9.580859990555915E-4,
+  "conviction": 5.211387900355872,
+  "premise": ["rolls/buns", "yogurt", "tropical fruit", "beef"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 14,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9230769230769231,
+  "lift": 3.612599100064281,
+  "leverage": 8.823885932838455E-4,
+  "conviction": 4.839145907473309,
+  "premise": ["bottled water", "rice"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 13,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9230769230769231,
+  "lift": 3.612599100064281,
+  "leverage": 8.823885932838455E-4,
+  "conviction": 4.839145907473309,
+  "premise": ["whipped/sour cream", "house keeping products"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 13,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9230769230769231,
+  "lift": 3.612599100064281,
+  "leverage": 8.823885932838455E-4,
+  "conviction": 4.839145907473309,
+  "premise": ["root vegetables", "whipped/sour cream", "sugar"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 13,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9230769230769231,
+  "lift": 3.612599100064281,
+  "leverage": 8.823885932838455E-4,
+  "conviction": 4.839145907473309,
+  "premise": ["root vegetables", "whipped/sour cream", "soft cheese"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 13,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9230769230769231,
+  "lift": 3.612599100064281,
+  "leverage": 8.823885932838455E-4,
+  "conviction": 4.839145907473309,
+  "premise": ["tropical fruit", "domestic eggs", "hygiene articles"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 13,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9230769230769231,
+  "lift": 3.612599100064281,
+  "leverage": 8.823885932838455E-4,
+  "conviction": 4.839145907473309,
+  "premise": ["tropical fruit", "butter", "hygiene articles"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 13,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9230769230769231,
+  "lift": 3.612599100064281,
+  "leverage": 8.823885932838455E-4,
+  "conviction": 4.839145907473309,
+  "premise": ["tropical fruit", "napkins", "long life bakery product"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 13,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9230769230769231,
+  "lift": 3.612599100064281,
+  "leverage": 8.823885932838455E-4,
+  "conviction": 4.839145907473309,
+  "premise": ["whipped/sour cream", "coffee", "butter"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 13,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9230769230769231,
+  "lift": 3.612599100064281,
+  "leverage": 8.823885932838455E-4,
+  "conviction": 4.839145907473309,
+  "premise": ["whipped/sour cream", "butter", "sliced cheese"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 13,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9230769230769231,
+  "lift": 4.7706051174259265,
+  "leverage": 9.643717164428112E-4,
+  "conviction": 5.242297915607524,
+  "premise": ["root vegetables", "citrus fruit", "cream cheese "],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 13,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 0.9230769230769231,
+  "lift": 4.7706051174259265,
+  "leverage": 9.643717164428112E-4,
+  "conviction": 5.242297915607524,
+  "premise": ["tropical fruit", "whipped/sour cream", "soft cheese"],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 13,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 0.9230769230769231,
+  "lift": 3.612599100064281,
+  "leverage": 8.823885932838455E-4,
+  "conviction": 4.839145907473309,
+  "premise": ["other vegetables", "yogurt", "root vegetables", "hard cheese"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 13,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9230769230769231,
+  "lift": 3.612599100064281,
+  "leverage": 8.823885932838455E-4,
+  "conviction": 4.839145907473309,
+  "premise": ["other vegetables", "root vegetables", "pip fruit", "brown bread"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 13,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9230769230769231,
+  "lift": 4.7706051174259265,
+  "leverage": 9.643717164428112E-4,
+  "conviction": 5.242297915607524,
+  "premise": ["whole milk", "citrus fruit", "whipped/sour cream", "domestic eggs"],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 13,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 0.9230769230769231,
+  "lift": 3.612599100064281,
+  "leverage": 8.823885932838455E-4,
+  "conviction": 4.839145907473309,
+  "premise": ["other vegetables", "pip fruit", "whipped/sour cream", "domestic eggs"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 13,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9230769230769231,
+  "lift": 3.612599100064281,
+  "leverage": 8.823885932838455E-4,
+  "conviction": 4.839145907473309,
+  "premise": ["yogurt", "root vegetables", "tropical fruit", "frankfurter"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 13,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9230769230769231,
+  "lift": 3.612599100064281,
+  "leverage": 8.823885932838455E-4,
+  "conviction": 4.839145907473309,
+  "premise": ["yogurt", "tropical fruit", "domestic eggs", "butter"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 13,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9166666666666666,
+  "lift": 3.5875116063138344,
+  "leverage": 8.06691187512099E-4,
+  "conviction": 4.466903914590747,
+  "premise": ["bottled beer", "soups"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 12,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9166666666666666,
+  "lift": 4.737475915221579,
+  "leverage": 8.823679165819137E-4,
+  "conviction": 4.83904422979156,
+  "premise": ["onions", "grapes"],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 12,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 0.9166666666666666,
+  "lift": 4.737475915221579,
+  "leverage": 8.823679165819137E-4,
+  "conviction": 4.83904422979156,
+  "premise": ["oil", "hard cheese"],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 12,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 0.9166666666666666,
+  "lift": 3.5875116063138344,
+  "leverage": 8.06691187512099E-4,
+  "conviction": 4.466903914590747,
+  "premise": ["root vegetables", "butter", "white bread"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 12,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9166666666666666,
+  "lift": 3.5875116063138344,
+  "leverage": 8.06691187512099E-4,
+  "conviction": 4.466903914590747,
+  "premise": ["tropical fruit", "citrus fruit", "herbs"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 12,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9166666666666666,
+  "lift": 3.5875116063138344,
+  "leverage": 8.06691187512099E-4,
+  "conviction": 4.466903914590747,
+  "premise": ["tropical fruit", "domestic eggs", "sugar"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 12,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9166666666666666,
+  "lift": 3.5875116063138344,
+  "leverage": 8.06691187512099E-4,
+  "conviction": 4.466903914590747,
+  "premise": ["citrus fruit", "butter", "curd"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 12,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9166666666666666,
+  "lift": 3.5875116063138344,
+  "leverage": 8.06691187512099E-4,
+  "conviction": 4.466903914590747,
+  "premise": ["fruit/vegetable juice", "domestic eggs", "margarine"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 12,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9166666666666666,
+  "lift": 3.5875116063138344,
+  "leverage": 8.06691187512099E-4,
+  "conviction": 4.466903914590747,
+  "premise": ["domestic eggs", "butter", "curd"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 12,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9166666666666666,
+  "lift": 4.737475915221579,
+  "leverage": 8.823679165819137E-4,
+  "conviction": 4.83904422979156,
+  "premise": ["tropical fruit", "whipped/sour cream", "dessert"],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 12,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 0.9166666666666666,
+  "lift": 3.5875116063138344,
+  "leverage": 8.06691187512099E-4,
+  "conviction": 4.466903914590747,
+  "premise": ["other vegetables", "yogurt", "pip fruit", "cream cheese "],
+  "consequence": ["whole milk"],
+  "premiseSupport": 12,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9166666666666666,
+  "lift": 3.5875116063138344,
+  "leverage": 8.06691187512099E-4,
+  "conviction": 4.466903914590747,
+  "premise": ["other vegetables", "tropical fruit", "whipped/sour cream", "domestic eggs"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 12,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9166666666666666,
+  "lift": 4.737475915221579,
+  "leverage": 8.823679165819137E-4,
+  "conviction": 4.83904422979156,
+  "premise": ["whole milk", "citrus fruit", "whipped/sour cream", "cream cheese "],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 12,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 0.9166666666666666,
+  "lift": 3.5875116063138344,
+  "leverage": 8.06691187512099E-4,
+  "conviction": 4.466903914590747,
+  "premise": ["rolls/buns", "bottled water", "root vegetables", "tropical fruit"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 12,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9166666666666666,
+  "lift": 3.5875116063138344,
+  "leverage": 8.06691187512099E-4,
+  "conviction": 4.466903914590747,
+  "premise": ["yogurt", "root vegetables", "pip fruit", "fruit/vegetable juice"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 12,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9166666666666666,
+  "lift": 3.5875116063138344,
+  "leverage": 8.06691187512099E-4,
+  "conviction": 4.466903914590747,
+  "premise": ["yogurt", "root vegetables", "domestic eggs", "butter"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 12,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9166666666666666,
+  "lift": 3.5875116063138344,
+  "leverage": 8.06691187512099E-4,
+  "conviction": 4.466903914590747,
+  "premise": ["yogurt", "tropical fruit", "whipped/sour cream", "domestic eggs"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 12,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9166666666666666,
+  "lift": 3.5875116063138344,
+  "leverage": 8.06691187512099E-4,
+  "conviction": 4.466903914590747,
+  "premise": ["yogurt", "tropical fruit", "domestic eggs", "curd"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 12,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9166666666666666,
+  "lift": 4.737475915221579,
+  "leverage": 8.823679165819137E-4,
+  "conviction": 4.83904422979156,
+  "premise": ["yogurt", "tropical fruit", "fruit/vegetable juice", "whipped/sour cream"],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 12,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 3.5578627500633067,
+  "leverage": 7.309937817403529E-4,
+  "conviction": 4.094661921708185,
+  "premise": ["pastry", "sweet spreads"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 11,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 3.5578627500633067,
+  "leverage": 7.309937817403529E-4,
+  "conviction": 4.094661921708185,
+  "premise": ["curd", "cereals"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 11,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 4.698323221707351,
+  "leverage": 8.003641167210162E-4,
+  "conviction": 4.435790543975598,
+  "premise": ["whole milk", "fruit/vegetable juice", "herbs"],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 11,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 4.698323221707351,
+  "leverage": 8.003641167210162E-4,
+  "conviction": 4.435790543975598,
+  "premise": ["whole milk", "pork", "butter milk"],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 11,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 3.5578627500633067,
+  "leverage": 7.309937817403529E-4,
+  "conviction": 4.094661921708185,
+  "premise": ["rolls/buns", "pork", "waffles"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 11,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 3.5578627500633067,
+  "leverage": 7.309937817403529E-4,
+  "conviction": 4.094661921708185,
+  "premise": ["root vegetables", "domestic eggs", "coffee"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 11,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 3.5578627500633067,
+  "leverage": 7.309937817403529E-4,
+  "conviction": 4.094661921708185,
+  "premise": ["root vegetables", "frankfurter", "sliced cheese"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 11,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 3.5578627500633067,
+  "leverage": 7.309937817403529E-4,
+  "conviction": 4.094661921708185,
+  "premise": ["root vegetables", "butter", "cream cheese "],
+  "consequence": ["whole milk"],
+  "premiseSupport": 11,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 3.5578627500633067,
+  "leverage": 7.309937817403529E-4,
+  "conviction": 4.094661921708185,
+  "premise": ["tropical fruit", "frankfurter", "frozen meals"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 11,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 3.5578627500633067,
+  "leverage": 7.309937817403529E-4,
+  "conviction": 4.094661921708185,
+  "premise": ["tropical fruit", "butter", "frozen meals"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 11,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 3.5578627500633067,
+  "leverage": 7.309937817403529E-4,
+  "conviction": 4.094661921708185,
+  "premise": ["sausage", "pip fruit", "cream cheese "],
+  "consequence": ["whole milk"],
+  "premiseSupport": 11,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 3.5578627500633067,
+  "leverage": 7.309937817403529E-4,
+  "conviction": 4.094661921708185,
+  "premise": ["sausage", "butter", "long life bakery product"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 11,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 3.5578627500633067,
+  "leverage": 7.309937817403529E-4,
+  "conviction": 4.094661921708185,
+  "premise": ["sausage", "butter", "berries"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 11,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 3.5578627500633067,
+  "leverage": 7.309937817403529E-4,
+  "conviction": 4.094661921708185,
+  "premise": ["bottled beer", "domestic eggs", "margarine"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 11,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 3.5578627500633067,
+  "leverage": 7.309937817403529E-4,
+  "conviction": 4.094661921708185,
+  "premise": ["whipped/sour cream", "napkins", "long life bakery product"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 11,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 3.5578627500633067,
+  "leverage": 7.309937817403529E-4,
+  "conviction": 4.094661921708185,
+  "premise": ["butter", "napkins", "hygiene articles"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 11,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 4.698323221707351,
+  "leverage": 8.003641167210162E-4,
+  "conviction": 4.435790543975598,
+  "premise": ["yogurt", "coffee", "oil"],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 11,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 4.698323221707351,
+  "leverage": 8.003641167210162E-4,
+  "conviction": 4.435790543975598,
+  "premise": ["root vegetables", "napkins", "onions"],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 11,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 4.698323221707351,
+  "leverage": 8.003641167210162E-4,
+  "conviction": 4.435790543975598,
+  "premise": ["tropical fruit", "whipped/sour cream", "hamburger meat"],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 11,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 4.698323221707351,
+  "leverage": 8.003641167210162E-4,
+  "conviction": 4.435790543975598,
+  "premise": ["tropical fruit", "whipped/sour cream", "hard cheese"],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 11,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 4.698323221707351,
+  "leverage": 8.003641167210162E-4,
+  "conviction": 4.435790543975598,
+  "premise": ["tropical fruit", "frankfurter", "frozen meals"],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 11,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 4.698323221707351,
+  "leverage": 8.003641167210162E-4,
+  "conviction": 4.435790543975598,
+  "premise": ["pip fruit", "fruit/vegetable juice", "butter milk"],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 11,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 6.516697588126159,
+  "leverage": 8.607504247123807E-4,
+  "conviction": 4.732740213523131,
+  "premise": ["root vegetables", "butter", "cream cheese "],
+  "consequence": ["yogurt"],
+  "premiseSupport": 11,
+  "consequenceSupport": 1372
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 3.5578627500633067,
+  "leverage": 7.309937817403529E-4,
+  "conviction": 4.094661921708185,
+  "premise": ["other vegetables", "rolls/buns", "root vegetables", "brown bread"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 11,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 4.698323221707351,
+  "leverage": 8.003641167210162E-4,
+  "conviction": 4.435790543975598,
+  "premise": ["whole milk", "soda", "whipped/sour cream", "butter"],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 11,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 3.5578627500633067,
+  "leverage": 7.309937817403529E-4,
+  "conviction": 4.094661921708185,
+  "premise": ["other vegetables", "yogurt", "root vegetables", "waffles"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 11,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 3.5578627500633067,
+  "leverage": 7.309937817403529E-4,
+  "conviction": 4.094661921708185,
+  "premise": ["other vegetables", "yogurt", "citrus fruit", "frozen vegetables"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 11,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 3.5578627500633067,
+  "leverage": 7.309937817403529E-4,
+  "conviction": 4.094661921708185,
+  "premise": ["other vegetables", "bottled water", "citrus fruit", "butter"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 11,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 3.5578627500633067,
+  "leverage": 7.309937817403529E-4,
+  "conviction": 4.094661921708185,
+  "premise": ["other vegetables", "root vegetables", "tropical fruit", "herbs"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 11,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 3.5578627500633067,
+  "leverage": 7.309937817403529E-4,
+  "conviction": 4.094661921708185,
+  "premise": ["other vegetables", "root vegetables", "pip fruit", "cream cheese "],
+  "consequence": ["whole milk"],
+  "premiseSupport": 11,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 3.5578627500633067,
+  "leverage": 7.309937817403529E-4,
+  "conviction": 4.094661921708185,
+  "premise": ["other vegetables", "root vegetables", "pork", "butter"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 11,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 4.698323221707351,
+  "leverage": 8.003641167210162E-4,
+  "conviction": 4.435790543975598,
+  "premise": ["whole milk", "root vegetables", "butter", "white bread"],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 11,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 3.5578627500633067,
+  "leverage": 7.309937817403529E-4,
+  "conviction": 4.094661921708185,
+  "premise": ["other vegetables", "tropical fruit", "citrus fruit", "domestic eggs"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 11,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 4.698323221707351,
+  "leverage": 8.003641167210162E-4,
+  "conviction": 4.435790543975598,
+  "premise": ["whole milk", "tropical fruit", "fruit/vegetable juice", "whipped/sour cream"],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 11,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 3.5578627500633067,
+  "leverage": 7.309937817403529E-4,
+  "conviction": 4.094661921708185,
+  "premise": ["other vegetables", "whipped/sour cream", "butter", "napkins"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 11,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 3.5578627500633067,
+  "leverage": 7.309937817403529E-4,
+  "conviction": 4.094661921708185,
+  "premise": ["yogurt", "root vegetables", "tropical fruit", "pastry"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 11,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 3.5578627500633067,
+  "leverage": 7.309937817403529E-4,
+  "conviction": 4.094661921708185,
+  "premise": ["yogurt", "tropical fruit", "citrus fruit", "curd"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 11,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 3.5578627500633067,
+  "leverage": 7.309937817403529E-4,
+  "conviction": 4.094661921708185,
+  "premise": ["yogurt", "tropical fruit", "pip fruit", "frozen meals"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 11,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 6.516697588126159,
+  "leverage": 8.607504247123807E-4,
+  "conviction": 4.732740213523131,
+  "premise": ["whole milk", "tropical fruit", "butter", "sliced cheese"],
+  "consequence": ["yogurt"],
+  "premiseSupport": 11,
+  "consequenceSupport": 1372
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 3.5578627500633067,
+  "leverage": 7.309937817403529E-4,
+  "conviction": 4.094661921708185,
+  "premise": ["yogurt", "tropical fruit", "butter", "sliced cheese"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 11,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 8.34040027137042,
+  "leverage": 8.948669828995921E-4,
+  "conviction": 4.900508388408745,
+  "premise": ["other vegetables", "soda", "citrus fruit", "fruit/vegetable juice"],
+  "consequence": ["root vegetables"],
+  "premiseSupport": 11,
+  "consequenceSupport": 1072
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 4.698323221707351,
+  "leverage": 8.003641167210162E-4,
+  "conviction": 4.435790543975598,
+  "premise": ["yogurt", "root vegetables", "tropical fruit", "oil"],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 11,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 6.516697588126159,
+  "leverage": 8.607504247123807E-4,
+  "conviction": 4.732740213523131,
+  "premise": ["other vegetables", "tropical fruit", "butter", "white bread"],
+  "consequence": ["yogurt"],
+  "premiseSupport": 11,
+  "consequenceSupport": 1372
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 4.698323221707351,
+  "leverage": 8.003641167210162E-4,
+  "conviction": 4.435790543975598,
+  "premise": ["yogurt", "tropical fruit", "butter", "white bread"],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 11,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 6.516697588126159,
+  "leverage": 8.607504247123807E-4,
+  "conviction": 4.732740213523131,
+  "premise": ["other vegetables", "whipped/sour cream", "curd", "cream cheese "],
+  "consequence": ["yogurt"],
+  "premiseSupport": 11,
+  "consequenceSupport": 1372
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 8.34040027137042,
+  "leverage": 8.948669828995921E-4,
+  "conviction": 4.900508388408745,
+  "premise": ["whole milk", "other vegetables", "yogurt", "tropical fruit", "oil"],
+  "consequence": ["root vegetables"],
+  "premiseSupport": 11,
+  "consequenceSupport": 1072
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 12.147974308300395,
+  "leverage": 9.33077528069269E-4,
+  "conviction": 5.08840874428063,
+  "premise": ["yogurt", "root vegetables", "tropical fruit", "oil"],
+  "consequence": ["whole milk", "other vegetables"],
+  "premiseSupport": 11,
+  "consequenceSupport": 736
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 4.698323221707351,
+  "leverage": 8.003641167210162E-4,
+  "conviction": 4.435790543975598,
+  "premise": ["whole milk", "yogurt", "root vegetables", "tropical fruit", "oil"],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 11,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 4.698323221707351,
+  "leverage": 8.003641167210162E-4,
+  "conviction": 4.435790543975598,
+  "premise": ["whole milk", "yogurt", "root vegetables", "citrus fruit", "whipped/sour cream"],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 11,
+  "consequenceSupport": 1903
+}, {
+  "confidence": 0.9090909090909091,
+  "lift": 3.5578627500633067,
+  "leverage": 7.309937817403529E-4,
+  "conviction": 4.094661921708185,
+  "premise": ["other vegetables", "yogurt", "tropical fruit", "domestic eggs", "butter"],
+  "consequence": ["whole milk"],
+  "premiseSupport": 11,
+  "consequenceSupport": 2513
+}, {
+  "confidence": 0.9047619047619048,
+  "lift": 11.23526936026936,
+  "leverage": 0.0017599284999647205,
+  "conviction": 6.436298932384342,
+  "premise": ["red/blush wine", "liquor"],
+  "consequence": ["bottled beer"],
+  "premiseSupport": 21,
+  "consequenceSupport": 792
+}, {
+  "confidence": 0.9047619047619048,
+  "lift": 4.6759502539849365,
+  "leverage": 0.0015187244335811351,
+  "conviction": 5.645551601423488,
+  "premise": ["tropical fruit", "fruit/vegetable juice", "whipped/sour cream"],
+  "consequence": ["other vegetables"],
+  "premiseSupport": 21,
+  "consequenceSupport": 1903
+}]
